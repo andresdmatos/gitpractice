@@ -1,3 +1,9 @@
 Name: Ironhack NYC
 Age: 27
+<<<<<<< HEAD
 Favorite Color: Navy Blue hue
+=======
+Favorite Color: Navy Blue
+Next Favorite Color: Red
+>>>>>>> 832513b75dea5b56f4713cedeb94655d09064dca
+these changges are od
